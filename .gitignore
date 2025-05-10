@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 
 mlruns
+/datos_creditos.csv
+/datos_tarjetas.csv
